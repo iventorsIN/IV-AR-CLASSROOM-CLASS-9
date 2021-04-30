@@ -408,7 +408,7 @@ MonoBehaviour:
     RequiredFingerCount: 0
     RequiredMouseButtons: 0
     RequiredSelectable: {fileID: 0}
-  Axis: {x: 0, y: -1, z: 0}
+  Axis: {x: 0, y: 0, z: -1}
   Space: 1
   Sensitivity: 1
 --- !u!114 &911509541449828451
